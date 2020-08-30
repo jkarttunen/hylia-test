@@ -6,7 +6,7 @@
   "authorEmail": "juha@kesselrun.xyz",
   "authorHandle": "@run_kessel",
   "authorName": "Juha Karttunen",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/GkqMZ8LjP3yg",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 20
